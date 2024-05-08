@@ -1,0 +1,972 @@
+{
+    "brands": [
+        {
+            "brand": "ASTON MARTIN",
+            "count_brand": 70
+        },
+        {
+            "brand": "AUDI",
+            "count_brand": 1320
+        },
+        {
+            "brand": "BMW",
+            "count_brand": 3920
+        },
+        {
+            "brand": "FIAT",
+            "count_brand": 1612
+        },
+        {
+            "brand": "JAGUAR",
+            "count_brand": 419
+        },
+        {
+            "brand": "LAMBORGHINI",
+            "count_brand": 9
+        },
+        {
+            "brand": "LOTUS",
+            "count_brand": 16
+        },
+        {
+            "brand": "MAZDA",
+            "count_brand": 2045
+        },
+        {
+            "brand": "MCLAREN",
+            "count_brand": 29
+        },
+        {
+            "brand": "MERCEDES BENZ",
+            "count_brand": 2572
+        },
+        {
+            "brand": "MINI",
+            "count_brand": 624
+        },
+        {
+            "brand": "MORGAN",
+            "count_brand": 4
+        },
+        {
+            "brand": "PORSCHE",
+            "count_brand": 677
+        },
+        {
+            "brand": "SUBARU",
+            "count_brand": 2105
+        },
+        {
+            "brand": "BIGFOOT",
+            "count_brand": 13
+        },
+        {
+            "brand": "CFMOTO",
+            "count_brand": 65
+        },
+        {
+            "brand": "DAYUN",
+            "count_brand": 40
+        },
+        {
+            "brand": "EUROMOT",
+            "count_brand": 70
+        },
+        {
+            "brand": "HERO-PUCH",
+            "count_brand": 19
+        },
+        {
+            "brand": "INDIAN",
+            "count_brand": 82
+        },
+        {
+            "brand": "KAWASAKI",
+            "count_brand": 893
+        },
+        {
+            "brand": "KEEWAY",
+            "count_brand": 147
+        },
+        {
+            "brand": "KTM",
+            "count_brand": 824
+        },
+        {
+            "brand": "KYMCO",
+            "count_brand": 162
+        },
+        {
+            "brand": "LONCIN",
+            "count_brand": 279
+        },
+        {
+            "brand": "MOTORRAD",
+            "count_brand": 570
+        },
+        {
+            "brand": "ODES",
+            "count_brand": 13
+        },
+        {
+            "brand": "POLARIS",
+            "count_brand": 327
+        },
+        {
+            "brand": "SHINERAY",
+            "count_brand": 73
+        },
+        {
+            "brand": "SPITZ",
+            "count_brand": 140
+        },
+        {
+            "brand": "SUZUKI",
+            "count_brand": 3500
+        },
+        {
+            "brand": "TAKASAKI",
+            "count_brand": 614
+        },
+        {
+            "brand": "YAMAHA",
+            "count_brand": 1782
+        },
+        {
+            "brand": "YAMAMOTO",
+            "count_brand": 11
+        },
+        {
+            "brand": "LINHAI",
+            "count_brand": 17
+        },
+        {
+            "brand": "GDM",
+            "count_brand": 1
+        },
+        {
+            "brand": "RBS",
+            "count_brand": 2
+        },
+        {
+            "brand": "BRP CAN AM",
+            "count_brand": 121
+        },
+        {
+            "brand": "CF MOTO",
+            "count_brand": 25
+        },
+        {
+            "brand": "ASIA MOTORS",
+            "count_brand": 96
+        },
+        {
+            "brand": "BAIC",
+            "count_brand": 116
+        },
+        {
+            "brand": "BRILLIANCE",
+            "count_brand": 169
+        },
+        {
+            "brand": "CHANGAN",
+            "count_brand": 451
+        },
+        {
+            "brand": "CHEVROLET",
+            "count_brand": 4015
+        },
+        {
+            "brand": "CITROEN",
+            "count_brand": 1767
+        },
+        {
+            "brand": "COMMER",
+            "count_brand": 2
+        },
+        {
+            "brand": "DAEWOO",
+            "count_brand": 334
+        },
+        {
+            "brand": "DAIHATSU",
+            "count_brand": 626
+        },
+        {
+            "brand": "DATSUN",
+            "count_brand": 424
+        },
+        {
+            "brand": "DONGFENG",
+            "count_brand": 336
+        },
+        {
+            "brand": "FORD",
+            "count_brand": 2497
+        },
+        {
+            "brand": "FOTON",
+            "count_brand": 268
+        },
+        {
+            "brand": "GAC GONOW",
+            "count_brand": 50
+        },
+        {
+            "brand": "HAFEI",
+            "count_brand": 46
+        },
+        {
+            "brand": "HAIMA",
+            "count_brand": 33
+        },
+        {
+            "brand": "HONDA",
+            "count_brand": 2711
+        },
+        {
+            "brand": "HYUNDAI",
+            "count_brand": 3266
+        },
+        {
+            "brand": "ISUZU",
+            "count_brand": 39
+        },
+        {
+            "brand": "IVECO",
+            "count_brand": 7
+        },
+        {
+            "brand": "JAC",
+            "count_brand": 690
+        },
+        {
+            "brand": "KENBO",
+            "count_brand": 14
+        },
+        {
+            "brand": "KIA MOTORS",
+            "count_brand": 2384
+        },
+        {
+            "brand": "LADA",
+            "count_brand": 195
+        },
+        {
+            "brand": "LIFAN",
+            "count_brand": 271
+        },
+        {
+            "brand": "MAXUS",
+            "count_brand": 118
+        },
+        {
+            "brand": "MITSUBISHI",
+            "count_brand": 1336
+        },
+        {
+            "brand": "OPEL",
+            "count_brand": 683
+        },
+        {
+            "brand": "PEUGEOT",
+            "count_brand": 2820
+        },
+        {
+            "brand": "RENAULT",
+            "count_brand": 1537
+        },
+        {
+            "brand": "SANFU",
+            "count_brand": 1
+        },
+        {
+            "brand": "SEAT",
+            "count_brand": 283
+        },
+        {
+            "brand": "TOYOTA",
+            "count_brand": 2797
+        },
+        {
+            "brand": "VOLKSWAGEN",
+            "count_brand": 2517
+        },
+        {
+            "brand": "ZASTAVA",
+            "count_brand": 37
+        },
+        {
+            "brand": "RAM",
+            "count_brand": 145
+        },
+        {
+            "brand": "DFSK",
+            "count_brand": 182
+        },
+        {
+            "brand": "KYC",
+            "count_brand": 99
+        },
+        {
+            "brand": "AMERICAN MOTORS",
+            "count_brand": 52
+        },
+        {
+            "brand": "AUSTIN",
+            "count_brand": 87
+        },
+        {
+            "brand": "AUTORRAD",
+            "count_brand": 26
+        },
+        {
+            "brand": "DACIA",
+            "count_brand": 10
+        },
+        {
+            "brand": "DODGE",
+            "count_brand": 658
+        },
+        {
+            "brand": "FAW",
+            "count_brand": 110
+        },
+        {
+            "brand": "G.M.C.",
+            "count_brand": 40
+        },
+        {
+            "brand": "GREAT WALL",
+            "count_brand": 489
+        },
+        {
+            "brand": "INTERNATIONAL",
+            "count_brand": 24
+        },
+        {
+            "brand": "JEEP",
+            "count_brand": 562
+        },
+        {
+            "brand": "JMC",
+            "count_brand": 59
+        },
+        {
+            "brand": "LAND ROVER",
+            "count_brand": 734
+        },
+        {
+            "brand": "MAHINDRA",
+            "count_brand": 329
+        },
+        {
+            "brand": "MORRIS",
+            "count_brand": 2
+        },
+        {
+            "brand": "NISSAN",
+            "count_brand": 3059
+        },
+        {
+            "brand": "SAEHAN",
+            "count_brand": 11
+        },
+        {
+            "brand": "SAMSUNG",
+            "count_brand": 242
+        },
+        {
+            "brand": "SG",
+            "count_brand": 6
+        },
+        {
+            "brand": "SKODA",
+            "count_brand": 394
+        },
+        {
+            "brand": "SSANGYONG",
+            "count_brand": 802
+        },
+        {
+            "brand": "TATA",
+            "count_brand": 31
+        },
+        {
+            "brand": "YUGO",
+            "count_brand": 18
+        },
+        {
+            "brand": "ZX",
+            "count_brand": 68
+        },
+        {
+            "brand": "ZNA",
+            "count_brand": 12
+        },
+        {
+            "brand": "VOLTERA",
+            "count_brand": 1
+        },
+        {
+            "brand": "UAZ",
+            "count_brand": 15
+        },
+        {
+            "brand": "FARIZON",
+            "count_brand": 2
+        },
+        {
+            "brand": "ALFA ROMEO",
+            "count_brand": 399
+        },
+        {
+            "brand": "BYD",
+            "count_brand": 99
+        },
+        {
+            "brand": "CHANGHE",
+            "count_brand": 8
+        },
+        {
+            "brand": "CHERY",
+            "count_brand": 363
+        },
+        {
+            "brand": "CHRYSLER",
+            "count_brand": 262
+        },
+        {
+            "brand": "F.S.O.",
+            "count_brand": 12
+        },
+        {
+            "brand": "FERRARI",
+            "count_brand": 82
+        },
+        {
+            "brand": "MASERATI",
+            "count_brand": 147
+        },
+        {
+            "brand": "GEELY",
+            "count_brand": 166
+        },
+        {
+            "brand": "LANCIA",
+            "count_brand": 89
+        },
+        {
+            "brand": "LEXUS",
+            "count_brand": 329
+        },
+        {
+            "brand": "MERCURY",
+            "count_brand": 50
+        },
+        {
+            "brand": "MG",
+            "count_brand": 359
+        },
+        {
+            "brand": "PLYMOUTH",
+            "count_brand": 39
+        },
+        {
+            "brand": "PROTON",
+            "count_brand": 90
+        },
+        {
+            "brand": "ROVER",
+            "count_brand": 152
+        },
+        {
+            "brand": "SMA",
+            "count_brand": 20
+        },
+        {
+            "brand": "VOLVO",
+            "count_brand": 1334
+        },
+        {
+            "brand": "DS AUTOMOBILES",
+            "count_brand": 98
+        },
+        {
+            "brand": "MAPLE",
+            "count_brand": 2
+        },
+        {
+            "brand": "APRILIA",
+            "count_brand": 114
+        },
+        {
+            "brand": "BAJAJ",
+            "count_brand": 25
+        },
+        {
+            "brand": "BASHAN",
+            "count_brand": 4
+        },
+        {
+            "brand": "BENELLI",
+            "count_brand": 80
+        },
+        {
+            "brand": "BENYI",
+            "count_brand": 2
+        },
+        {
+            "brand": "BENZHOU",
+            "count_brand": 2
+        },
+        {
+            "brand": "BIMOTA",
+            "count_brand": 85
+        },
+        {
+            "brand": "BOATIAN",
+            "count_brand": 2
+        },
+        {
+            "brand": "BUELL",
+            "count_brand": 31
+        },
+        {
+            "brand": "BULTACO",
+            "count_brand": 18
+        },
+        {
+            "brand": "CAGIVA",
+            "count_brand": 12
+        },
+        {
+            "brand": "DAELIM",
+            "count_brand": 14
+        },
+        {
+            "brand": "DUCATI",
+            "count_brand": 360
+        },
+        {
+            "brand": "DUNNA",
+            "count_brand": 5
+        },
+        {
+            "brand": "DYNA",
+            "count_brand": 5
+        },
+        {
+            "brand": "FLSTF",
+            "count_brand": 5
+        },
+        {
+            "brand": "FOX",
+            "count_brand": 3
+        },
+        {
+            "brand": "FXA",
+            "count_brand": 5
+        },
+        {
+            "brand": "GARELLI",
+            "count_brand": 9
+        },
+        {
+            "brand": "GASGAS",
+            "count_brand": 49
+        },
+        {
+            "brand": "GILERA",
+            "count_brand": 22
+        },
+        {
+            "brand": "GUZZI",
+            "count_brand": 53
+        },
+        {
+            "brand": "HAO JUE",
+            "count_brand": 18
+        },
+        {
+            "brand": "HARLEY-DAVIDSON",
+            "count_brand": 714
+        },
+        {
+            "brand": "HARTFORD",
+            "count_brand": 2
+        },
+        {
+            "brand": "HENSIM",
+            "count_brand": 19
+        },
+        {
+            "brand": "HUSABERG",
+            "count_brand": 38
+        },
+        {
+            "brand": "HUSQVARNA",
+            "count_brand": 305
+        },
+        {
+            "brand": "HYOSUNG",
+            "count_brand": 109
+        },
+        {
+            "brand": "JAWA",
+            "count_brand": 13
+        },
+        {
+            "brand": "JIANSHE",
+            "count_brand": 20
+        },
+        {
+            "brand": "KAYAK",
+            "count_brand": 6
+        },
+        {
+            "brand": "KINLON",
+            "count_brand": 193
+        },
+        {
+            "brand": "LAMBRETTA",
+            "count_brand": 2
+        },
+        {
+            "brand": "LML",
+            "count_brand": 15
+        },
+        {
+            "brand": "LUOJIA",
+            "count_brand": 5
+        },
+        {
+            "brand": "MAICO",
+            "count_brand": 2
+        },
+        {
+            "brand": "MONTELLI",
+            "count_brand": 13
+        },
+        {
+            "brand": "MONTESA",
+            "count_brand": 46
+        },
+        {
+            "brand": "MOTO BECANE",
+            "count_brand": 2
+        },
+        {
+            "brand": "MOTOMEL",
+            "count_brand": 20
+        },
+        {
+            "brand": "MSK",
+            "count_brand": 43
+        },
+        {
+            "brand": "MV AGUSTA",
+            "count_brand": 326
+        },
+        {
+            "brand": "OSSA",
+            "count_brand": 1
+        },
+        {
+            "brand": "PGO",
+            "count_brand": 8
+        },
+        {
+            "brand": "PIAGGIO",
+            "count_brand": 57
+        },
+        {
+            "brand": "PIONNER",
+            "count_brand": 4
+        },
+        {
+            "brand": "REGAL RAPTOR",
+            "count_brand": 85
+        },
+        {
+            "brand": "RIZATO",
+            "count_brand": 3
+        },
+        {
+            "brand": "SACHS",
+            "count_brand": 21
+        },
+        {
+            "brand": "SANLG",
+            "count_brand": 48
+        },
+        {
+            "brand": "SANYA",
+            "count_brand": 7
+        },
+        {
+            "brand": "SANYANG SYM",
+            "count_brand": 116
+        },
+        {
+            "brand": "SKYGO",
+            "count_brand": 3
+        },
+        {
+            "brand": "TM",
+            "count_brand": 235
+        },
+        {
+            "brand": "TORITO",
+            "count_brand": 3
+        },
+        {
+            "brand": "TRIUMPH",
+            "count_brand": 411
+        },
+        {
+            "brand": "TVS",
+            "count_brand": 8
+        },
+        {
+            "brand": "UNITED MOTORS",
+            "count_brand": 136
+        },
+        {
+            "brand": "URAL",
+            "count_brand": 5
+        },
+        {
+            "brand": "VERONA",
+            "count_brand": 11
+        },
+        {
+            "brand": "VESPA",
+            "count_brand": 73
+        },
+        {
+            "brand": "WANGYE",
+            "count_brand": 2
+        },
+        {
+            "brand": "WOLKEN",
+            "count_brand": 5
+        },
+        {
+            "brand": "XGJAO",
+            "count_brand": 6
+        },
+        {
+            "brand": "XINGYUE",
+            "count_brand": 6
+        },
+        {
+            "brand": "XMOTORS",
+            "count_brand": 2
+        },
+        {
+            "brand": "YINXIANG",
+            "count_brand": 12
+        },
+        {
+            "brand": "ZANELLAS",
+            "count_brand": 1
+        },
+        {
+            "brand": "ZNEN GROUP",
+            "count_brand": 1
+        },
+        {
+            "brand": "ZONGSHEN",
+            "count_brand": 71
+        },
+        {
+            "brand": "ZUNDAPP",
+            "count_brand": 5
+        },
+        {
+            "brand": "ROYAL ENFIELD",
+            "count_brand": 35
+        },
+        {
+            "brand": "PALLA",
+            "count_brand": 1
+        },
+        {
+            "brand": "SUPER SOCO",
+            "count_brand": 1
+        },
+        {
+            "brand": "MOTRAC",
+            "count_brand": 5
+        },
+        {
+            "brand": "CORSA",
+            "count_brand": 49
+        },
+        {
+            "brand": "ZONTES",
+            "count_brand": 46
+        },
+        {
+            "brand": "E - TAKASAKI",
+            "count_brand": 8
+        },
+        {
+            "brand": "AIMA",
+            "count_brand": 3
+        },
+        {
+            "brand": "SWM",
+            "count_brand": 13
+        },
+        {
+            "brand": "VOGE",
+            "count_brand": 34
+        },
+        {
+            "brand": "SPEED UP",
+            "count_brand": 6
+        },
+        {
+            "brand": "ITALJET",
+            "count_brand": 2
+        },
+        {
+            "brand": "DAGGER",
+            "count_brand": 1
+        },
+        {
+            "brand": "ACADIAN",
+            "count_brand": 8
+        },
+        {
+            "brand": "ACURA",
+            "count_brand": 48
+        },
+        {
+            "brand": "BENTLEY",
+            "count_brand": 21
+        },
+        {
+            "brand": "BUICK",
+            "count_brand": 77
+        },
+        {
+            "brand": "CADILLAC",
+            "count_brand": 57
+        },
+        {
+            "brand": "CATERHAM",
+            "count_brand": 2
+        },
+        {
+            "brand": "HILLMAN",
+            "count_brand": 6
+        },
+        {
+            "brand": "INFINITI",
+            "count_brand": 111
+        },
+        {
+            "brand": "LINCOLN",
+            "count_brand": 4
+        },
+        {
+            "brand": "NSU",
+            "count_brand": 3
+        },
+        {
+            "brand": "OLDSMOBILE",
+            "count_brand": 212
+        },
+        {
+            "brand": "POLSKI FIAT",
+            "count_brand": 2
+        },
+        {
+            "brand": "PONTIAC",
+            "count_brand": 198
+        },
+        {
+            "brand": "PUMA",
+            "count_brand": 5
+        },
+        {
+            "brand": "ROLLS ROYCE",
+            "count_brand": 23
+        },
+        {
+            "brand": "SAAB",
+            "count_brand": 126
+        },
+        {
+            "brand": "SIMCA",
+            "count_brand": 1
+        },
+        {
+            "brand": "KARMA",
+            "count_brand": 1
+        },
+        {
+            "brand": "GAC",
+            "count_brand": 38
+        },
+        {
+            "brand": "EXEED",
+            "count_brand": 11
+        },
+        {
+            "brand": "ARO",
+            "count_brand": 15
+        },
+        {
+            "brand": "BEIGING",
+            "count_brand": 1
+        },
+        {
+            "brand": "HAVAL",
+            "count_brand": 169
+        },
+        {
+            "brand": "LANDWIND",
+            "count_brand": 4
+        },
+        {
+            "brand": "WILLYS",
+            "count_brand": 2
+        },
+        {
+            "brand": "ZOTYE",
+            "count_brand": 27
+        },
+        {
+            "brand": "JETOUR",
+            "count_brand": 20
+        },
+        {
+            "brand": "CUPRA",
+            "count_brand": 7
+        },
+        {
+            "brand": "KAIYI",
+            "count_brand": 1
+        },
+        {
+            "brand": "OMODA",
+            "count_brand": 3
+        },
+        {
+            "brand": "JAECOO",
+            "count_brand": 3
+        },
+        {
+            "brand": "TESLA",
+            "count_brand": 1
+        },
+        {
+            "brand": "JINBEI",
+            "count_brand": 42
+        }
+    ]
+}
